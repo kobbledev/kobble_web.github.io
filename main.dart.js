@@ -67352,7 +67352,7 @@ A.Xu.prototype={
 $0(){},
 $S:0}
 A.Hi.prototype={
-I(a,b){return new A.x7(B.Cu,new A.ZY(),"Flutter Demo",A.alY(null,B.bH),!1,null)}}
+I(a,b){return new A.x7(B.Cu,new A.ZY(),"Kobble",A.alY(null,B.bH),!1,null)}}
 A.ZY.prototype={
 $2(a,b){var s=null
 return new A.yI(b,A.a([B.Iz,B.Iy,B.IA],t.a3),s,s,800,1920,s,!0,1,!1,s,s,s,s,s,s,s,s,!1,B.fH,!1,s)},
